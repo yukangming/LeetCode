@@ -1,2 +1,2 @@
 # LeetCode
-he are some LeetCode demos that I solved in my study
+here are some LeetCode demos that I solved in my study
